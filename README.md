@@ -3,7 +3,7 @@ Hello 👋, I’m Nour
 </h2>
 
 <p align="left">
-I am a 4th-year MEng student at Ecole Polytechnique, concurrently pursuing a Master of Artificial Intelligence at PSL Research University - a joint program offered by Université Paris Dauphine, Ecole Normale Supérieure & Ecole des Mines Paris. 
+I am an engineer from Ecole Polytechnique, with a Master of Research in Artificial Intelligence from PSL University - a joint program offered by Université Paris Dauphine, Ecole Normale Supérieure & Ecole des Mines Paris. 
 </p>
 <p align="left">
 My interests encompass Machine and Deep Learning, Data Science, Computer Graphics, and Visual Computing. I am passionate about contributing to the development of innovative technologies that transform our daily lives (and let’s be honest, who doesn’t use ChatGPT or Claude? 😄), our industries, societal challenges, diverse markets, and even the healthcare sector. Let's talk AI⚡.
